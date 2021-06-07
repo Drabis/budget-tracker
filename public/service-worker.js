@@ -1,24 +1,23 @@
+const CACHE_NAME = "mysite-v1";
+const DATA_CAHE_NAME = "data-cahe-v1";
+
 const FILES_TO_CACHE = [
   "/",
-  "/style.css",
-  "/index.js",
   "/db.js",
-  "/manifest.webmanifest.js",
+  "/index.js",
+  "/manifest.json",
+  "/styles.css",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
 ];
-
-const CACHE_NAME = "mysite-v1";
-const DATA_CAHE_NAME = "data-cahe-v1";
 
 // Install the cache
 
 self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches
-      .open(CACHE_NAME)
-      .then((cache) => cache.addAll(FILES_TO_CACHE))
-      .then(self.skipWaiting())
+    caches.open(CACHE_NAME).then((cache) => {
+      return cache.addAll(FILES_TO_CACHE);
+    })
   );
 });
 
@@ -60,4 +59,3 @@ self.addEventListener("fetch", function (event) {
     })
   );
 });
-
