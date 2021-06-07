@@ -3,6 +3,7 @@
 # Table of contents
 
 - [Description](#description)
+- [Deployment ](#deployment)
 - [Installation](#installation)
 - [Technologies](#technologies)
 - [User Story](#userstory)
@@ -12,6 +13,10 @@
 A PWA Budget Tracker application that allows for offline access and functionality.
 The user will be able to add expenses and deposits to their budget with or without a connection.
 When entering transactions offline, offline-entries will be added to tracker when brought back online.
+
+## Deployement 
+
+Deployed on Heroku: https://budgettracker-1.herokuapp.com/
 
 ## Installation
 
