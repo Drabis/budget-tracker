@@ -9,6 +9,10 @@
 - [User Story](#userstory)
 - [License](#license)
 
+
+<img width="849" alt="Screen Shot 2021-06-08 at 10 45 53 PM" src="https://user-images.githubusercontent.com/76567790/121449803-84662300-c968-11eb-803b-fcbcb5bd9821.png">
+
+
 ## Description
 A PWA Budget Tracker application that allows for offline access and functionality.
 The user will be able to add expenses and deposits to their budget with or without a connection.
@@ -24,7 +28,7 @@ Click the GitHub link provided above to the APP REPO. Click on the green button 
 
 ## Technologies
 
-node.js, Mongodb, Mongoose, IndexDB Storage, PWA (Manifest, ServiceWorker), Chart.js, Javascript, HTML5, CSS3
+node.js, Mongodb, Mongoose, IndexDB Storage, PWA (Manifest, ServiceWorker), Chart.js, Javascript, HTML5,
 
 ## User Story
 AS AN avid traveller
