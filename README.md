@@ -28,7 +28,7 @@ Click the GitHub link provided above to the APP REPO. Click on the green button 
 
 ## Technologies
 
-node.js, Mongodb, Mongoose, IndexDB Storage, PWA (Manifest, ServiceWorker), Chart.js, Javascript, HTML5,
+node.js, Mongodb, Mongoose, IndexDB Storage, PWA (Manifest, ServiceWorker), Javascript, HTML5,
 
 ## User Story
 AS AN avid traveller
