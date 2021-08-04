@@ -8,6 +8,7 @@
 - [Technologies](#technologies)
 - [User Story](#userstory)
 - [License](#license)
+- [Author Contact](#authorcontact)
 
 <img width="849" alt="Screen Shot 2021-06-08 at 10 45 53 PM" src="https://user-images.githubusercontent.com/76567790/121449803-84662300-c968-11eb-803b-fcbcb5bd9821.png">
 
@@ -39,9 +40,11 @@ SO THAT my account balance is accurate when I am traveling.
 
 ## Author Contact
 
+
 For any questions do not hesitate to reach out.
 
+
 Contact me:
-On Github: github.com/Drabis
+On Github: [Github](https://github.com/Drabis/)
 
 Via Email: drabo.aboulaye88@gmail.com
